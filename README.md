@@ -11,7 +11,7 @@ Este é um simples conversor de numerais romanos para números inteiros e vice-v
 
 1. Clone o repositório para o seu computador.
 2. Certifique-se de ter o Python instalado.
-3. Execute o programa com o comando `python conversor.py`.
+3. Execute o programa com o comando `python main.py`.
 4. Escolha a opção desejada:
    - Digite `1` para converter um número inteiro para algarismo romano.
    - Digite `2` para converter um algarismo romano para número inteiro.
